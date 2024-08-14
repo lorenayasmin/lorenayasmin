@@ -1,4 +1,4 @@
-##  Oie!! Eu sou a Lorena Yasmin ✨
+##  Oii!! Eu sou a Lorena Yasmin ✨
 
 - 🎓 Sou Técnica em Informática formada pelo IFSP
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas no IFSP

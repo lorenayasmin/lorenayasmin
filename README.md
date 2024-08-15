@@ -22,6 +22,3 @@
 
 ##
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenayasmin&hide_progress=true)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenayasmin&show_icons=true&theme=dracula)](https://github.com/lorenayasmin/github-readme-stats)

@@ -4,7 +4,7 @@
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas no IFSP
 - 💡 Atualmente desenvolvo o projeto Mappy
 - 😄 Pronomes: ela/dela
-- 👩🏻‍💻 <a href="https://lorenayasmin.github.io/">Acesse meu currículo!<a/>
+- 👩🏻‍💻 <a href="https://lorenayasmin.github.io/">Acesse meu currículo<a/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Loo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

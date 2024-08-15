@@ -24,8 +24,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenayasmin&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenayasmin)](https://github.com/lorenayasmin/github-readme-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenayasmin&layout=compact)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenayasmin&langs_count=8)
